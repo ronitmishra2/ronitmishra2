@@ -1,6 +1,7 @@
 # Hi there, I'm Ronit Mishra 👋
 
-I'm a passionate developer with a strong focus on **Artificial Intelligence, Machine Learning, and Full-Stack Web Development**. I love building intelligent systems that solve real-world problems and creating beautiful, interactive user experiences.
+I'm a passionate developer with a strong foundation in **Cloud Computing** and **Web Development**. I enjoy designing and building scalable, efficient, and innovative solutions that address real-world challenges while creating seamless and engaging user experiences. I am continuously exploring emerging technologies and striving to enhance my technical expertise through hands-on projects and continuous learning.
+
 
 ---
 
@@ -34,13 +35,6 @@ An AI-powered yoga pose detection and training application.
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🎬 [Movie Recommendation System](https://github.com/ronitmishra2/movierec)
-A machine learning-based recommendation engine for movies.
-- **What it does:** Uses `cosine_similarity` to build Content-Based, Collaborative, and Hybrid recommendation models to suggest movies accurately tailored to user tastes.
-- **Tech Stack:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### ✍️ [AI Assistant for Writers](https://github.com/ronitmishra2/AI-for-writers)
 A specialized AI tool designed to empower and assist writers in their creative process.
